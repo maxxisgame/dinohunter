@@ -16,7 +16,7 @@
   <objects name="objects">
     <object>objects\object0</object>
     <object>objects\o_hunter</object>
-    <object>objects\object2</object>
+    <object>objects\odart</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room1</room>
